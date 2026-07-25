@@ -181,20 +181,25 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alidev487-dotcom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alidev487-dotcom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alidev487-dotcom&theme=tokyonight" alt="Profile details" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alidev487-dotcom&theme=tokyonight" alt="GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alidev487-dotcom&theme=tokyonight" alt="Top languages" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alidev487-dotcom&theme=tokyonight" alt="Most used languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alidev487-dotcom&theme=tokyonight&utcOffset=4" alt="Productive time" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=alidev487-dotcom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=alidev487-dotcom&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alidev487-dotcom&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&hide_border=true&area_color=7aa2f7" alt="Contribution Activity Graph" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=alidev487-dotcom&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alidev487-dotcom&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&hide_border=true&area_color=7aa2f7" alt="Contribution activity graph" />
 
 </div>
 
