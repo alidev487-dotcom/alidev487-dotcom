@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I'm+Ali+Hani;Full+Stack+AI+Engineer;Building+Intelligent+Enterprise+Software" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=3200&pause=900&color=C026FF&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I'm+Ali+Hani;Full+Stack+AI+Engineer;Building+Intelligent+Enterprise+Software" alt="Typing animation" />
 
 <h3>Full Stack AI Engineer · Building intelligent software that solves real business problems</h3>
 
